@@ -19,7 +19,8 @@
 
 </p>
 
-  
+  <h2 align="center"> Main projects </h2>
+<br>
   
 # ft_transcendance : Our "end of 1st year" project at 42Lyon school
 ### A full website in Django, organized with 5 micro-services via Docker-compose, live-deployed through a pro CI/CD pipeline
