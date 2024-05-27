@@ -18,8 +18,9 @@
   <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
 
 </p>
+<br>
 
-  <h2 align="center"> Main projects </h2>
+  <h1 align="center"> Main projects </h1>
 <br>
   
 # ft_transcendance : Our "end of 1st year" project at 42Lyon school
