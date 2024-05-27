@@ -27,6 +27,9 @@ Features handled by the rest of the team :
 - Ranking system implementation
 - Elo-based matchmaking system
 
+  ![image](https://github.com/a-levra/a-levra/assets/97832618/f9e9ee5b-031c-4db5-a07d-3eac56d65b9c)
+
+
 Can be found at
 https://github.com/tdameros/42-transcendence
 
