@@ -58,10 +58,9 @@ https://github.com/tdameros/42-transcendence
 - **Built-in Commands**: Implement built-in commands like `cd`, `echo`, `env`, `exit`, and more.
 - **Signal Handling**: Handle signals gracefully.
 
-# Next project : basic ELF Virus 
+# Next project : basic ELF Infecter
 
 ELF is the binary format for Linux ( it's PE for Windows, Mach-o for mac).
-
 ## Features 
 - Infect an ELF file, 
 - Add a payload as a sections, 
@@ -69,5 +68,6 @@ ELF is the binary format for Linux ( it's PE for Windows, Mach-o for mac).
 - Cypher the added payload section, 
 - Cecypher and execute the payload at runtime
 - Once payload executed, launch the original binary gracefully
+https://github.com/a-levra/ELF-Infecter
 
 The sun is shining behind every clouds ! 🌞 It's a good life.
