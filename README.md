@@ -3,7 +3,24 @@
 - 🎓📜 Bac+3 Robotics and industrial networks
 - 🎓 Currently studying at 42 school in Lyon --> 📜 2026
 
+<h2 align="center"> 🛠 Languages & Tools 🛠 </h2>
+<br>
+<p align="center">
+  <img alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img alt="Cpp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Django" width="30px" src="https://brightcoding.dev/storage/brightcoding/LPZXEUOElvNnh8il1EeGPaH8MDVhHrSZ21U0Wxiu.png" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Docker" width="30px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" /> 
+  <img alt="CLion" width="30px" src="https://static-00.iconduck.com/assets.00/clion-icon-2048x2048-9jybcelh.png" /> 
+  <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" />
+  <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
+  <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
 
+</p>
+
+  
+  
 # ft_transcendance : Our "end of 1st year" project at 42Lyon school
 ### A full website in Django, organized with 5 micro-services via Docker-compose, live-deployed through a pro CI/CD pipeline
 
