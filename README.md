@@ -30,8 +30,20 @@ Features handled by the rest of the team :
 Can be found at
 https://github.com/tdameros/42-transcendence
 
+# 42Webserv : A C++ Nginx clone ! 
+ https://github.com/a-levra/webserv
 
-# Also check out my shell in C we made with my mate @fan2bolide :
+## Features
+
+- Handling of GET, POST, DELETE requests
+- Support for standard HTTP headers
+- Management of virtual servers
+- Support for persistent connections
+- Handling of static and dynamic files
+- Support for CGI (Common Gateway Interface)
+- Configuration management via configuration files
+
+# Minishell : a shell made in C with my mate @fan2bolide :
  https://github.com/fan2bolide/minishell
 
 ## Features
