@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a-levra
 - 🎓📜 Bac+2 Mechanical and production engineering
 - 🎓📜 Bac+3 Robotics and industrial networks
-- 🎓 Currently studying at 42 school in Lyon --> 📜 2026
+- 🎓 Currently studying at 42 school in Lyon --> 📜 2028
 
 <h2 align="center"> 🛠 Languages & Tools 🛠 </h2>
 <br>
